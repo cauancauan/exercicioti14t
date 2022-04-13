@@ -1,0 +1,7 @@
+C:\Users\cauan.ssilva\source\repos\ExercíciosTI14T\ExercíciosTI14T\bin\Debug\ExercíciosTI14T.exe.config
+C:\Users\cauan.ssilva\source\repos\ExercíciosTI14T\ExercíciosTI14T\bin\Debug\ExercíciosTI14T.exe
+C:\Users\cauan.ssilva\source\repos\ExercíciosTI14T\ExercíciosTI14T\bin\Debug\ExercíciosTI14T.pdb
+C:\Users\cauan.ssilva\source\repos\ExercíciosTI14T\ExercíciosTI14T\obj\Debug\ExercíciosTI14T.csproj.AssemblyReference.cache
+C:\Users\cauan.ssilva\source\repos\ExercíciosTI14T\ExercíciosTI14T\obj\Debug\ExercíciosTI14T.csproj.CoreCompileInputs.cache
+C:\Users\cauan.ssilva\source\repos\ExercíciosTI14T\ExercíciosTI14T\obj\Debug\ExercíciosTI14T.exe
+C:\Users\cauan.ssilva\source\repos\ExercíciosTI14T\ExercíciosTI14T\obj\Debug\ExercíciosTI14T.pdb
